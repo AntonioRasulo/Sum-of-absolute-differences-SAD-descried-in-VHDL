@@ -1,0 +1,281 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Modelsim
+Eabsolutedifference
+Z0 w1624181156
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 12
+Z4 dC:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Modelsim
+Z5 8C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/AbsoluteDifference.vhd
+Z6 FC:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/AbsoluteDifference.vhd
+l0
+L5 1
+VhdDD43bV2Si_naH?IP`eC2
+!s100 ]imzOMD:6g_LXXdaLEY0P2
+Z7 OV;C;2021.1;73
+32
+Z8 !s110 1624181311
+!i10b 1
+Z9 !s108 1624181311.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/AbsoluteDifference.vhd|
+Z11 !s107 C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/AbsoluteDifference.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 18 absolutedifference 0 22 hdDD43bV2Si_naH?IP`eC2
+!i122 12
+l25
+L21 21
+V;`W8ViCaF2JXH<_U9VQYS2
+!s100 bK:eS5S:fzo3;RZVF<]IN2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eadder
+Z14 w1624179488
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z16 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R1
+R2
+R3
+!i122 13
+R4
+Z17 8C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/Adder.vhd
+Z18 FC:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/Adder.vhd
+l0
+L8 1
+VF6ek<U6oOaPH<EAjK9IhR0
+!s100 n5Dh1biS:Z6M`2]=QK`i_3
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/Adder.vhd|
+Z20 !s107 C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/Adder.vhd|
+!i113 1
+R12
+R13
+Artl
+R15
+R16
+R1
+R2
+R3
+DEx4 work 5 adder 0 22 F6ek<U6oOaPH<EAjK9IhR0
+!i122 13
+l21
+L19 7
+VT7HnJEl0S]IBISgL3=icY0
+!s100 5WYV5`hKohUIAcAYBfB@R3
+R7
+32
+R8
+!i10b 1
+R9
+R19
+R20
+!i113 1
+R12
+R13
+Ecomparator
+Z21 w1624182355
+R15
+R16
+R1
+R2
+R3
+!i122 30
+R4
+Z22 8C:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Comparator.vhd
+Z23 FC:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Comparator.vhd
+l0
+L9 1
+VW1ng_9bD<bRCAJDz3[0I00
+!s100 MD:nSUTofSFHFno]6YgVz0
+R7
+32
+Z24 !s110 1624182376
+!i10b 1
+Z25 !s108 1624182376.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Comparator.vhd|
+Z27 !s107 C:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Comparator.vhd|
+!i113 1
+R12
+R13
+Afoo
+R15
+R16
+R1
+R2
+R3
+DEx4 work 10 comparator 0 22 W1ng_9bD<bRCAJDz3[0I00
+!i122 30
+l22
+L20 14
+V?25F_?F1YVCVKjch2Z]2^1
+!s100 I?1P`DQWSFPfAZ1mDFNO[1
+R7
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R12
+R13
+Ecounter2n
+Z28 w1624182566
+R15
+R16
+R1
+R2
+R3
+!i122 36
+R4
+Z29 8C:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Counter2^N.vhd
+Z30 FC:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Counter2^N.vhd
+l0
+L9 1
+VQfIfES5d0CZg7CHdd0H]T3
+!s100 iaoI:BH`h<I3MQJ[`7M4U2
+R7
+32
+Z31 !s110 1624182571
+!i10b 1
+Z32 !s108 1624182571.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Counter2^N.vhd|
+Z34 !s107 C:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Counter2^N.vhd|
+!i113 1
+R12
+R13
+Astruct
+R15
+R16
+R1
+R2
+R3
+DEx4 work 9 counter2n 0 22 QfIfES5d0CZg7CHdd0H]T3
+!i122 36
+l46
+L22 46
+VeM:hIOOGm9ZM3QKVa?1cR2
+!s100 WW6DD8dBEbNO5?nlUz_nM2
+R7
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R12
+R13
+Edfc
+Z35 w1624182199
+R1
+R2
+R3
+!i122 27
+R4
+Z36 8C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/DFC.vhd
+Z37 FC:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/DFC.vhd
+l0
+L6 1
+VM8LOG>K5bm[b1Fa3[X:L23
+!s100 EL7iQI:OBCc1;[@_P3iKk0
+R7
+32
+Z38 !s110 1624182205
+!i10b 1
+Z39 !s108 1624182205.000000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/DFC.vhd|
+Z41 !s107 C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/DFC.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 3 dfc 0 22 M8LOG>K5bm[b1Fa3[X:L23
+!i122 27
+l21
+L19 15
+VCPD]X:Cfk05YNCa2kK`FK1
+!s100 ToAcC3Bnzo=MW?oaAk5FH2
+R7
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R12
+R13
+Esad
+Z42 w1624183353
+R1
+R2
+R3
+!i122 44
+R4
+Z43 8C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/SAD.vhd
+Z44 FC:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/SAD.vhd
+l0
+L5 1
+VdWza4cO>:3P8Ab=;@XDZn1
+!s100 ]k_CX=:jE`6YCR1fDj`1I0
+R7
+32
+Z45 !s110 1624183361
+!i10b 1
+Z46 !s108 1624183361.000000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/SAD.vhd|
+!s107 C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/SAD.vhd|
+!i113 1
+R12
+R13
+Astruct
+R1
+R2
+R3
+DEx4 work 3 sad 0 22 dWza4cO>:3P8Ab=;@XDZn1
+!i122 44
+l84
+L21 163
+VL8N=G@Lk7?cn[6;i5QS=R3
+!s100 ^YGz5_^:]XPfNHj<_S4[:3
+R7
+32
+R45
+!i10b 1
+R46
+R47
+Z48 !s107 C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/SAD.vhd|
+!i113 1
+R12
+R13

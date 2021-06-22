@@ -1,0 +1,61 @@
+{C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/SAD.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/SAD.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity SAD
+-- Compiling architecture Struct of SAD
+
+} {} {}} {C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/Comparator.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Comparator.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Comparator
+-- Compiling architecture foo of Comparator
+
+} {} {}} {C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/Adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/Adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Adder
+-- Compiling architecture rtl of Adder
+
+} {} {}} {C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/DFC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/DFC.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DFC
+-- Compiling architecture rtl of DFC
+
+} {} {}} {C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/Counter2^N.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\rafus\Documents\Progetti microelettronica digitale\SAD\Src\Counter2^N.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Counter2N
+-- Compiling architecture Struct of Counter2N
+
+} {} {}} {C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/AbsoluteDifference.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetti microelettronica digitale/SAD/Src/AbsoluteDifference.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity AbsoluteDifference
+-- Compiling architecture rtl of AbsoluteDifference
+
+} {} {}}
